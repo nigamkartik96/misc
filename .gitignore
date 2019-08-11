@@ -1,0 +1,4 @@
+Server
+*.log
+*.jar
+.metadata
